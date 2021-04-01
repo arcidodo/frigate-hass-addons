@@ -1,5 +1,5 @@
 {
-  "name": "Frigate NVR",
+  "name": "Frigate NVR nvidia",
   "version": "1.13",
   "panel_icon": "mdi:cctv",
   "slug": "frigate",
