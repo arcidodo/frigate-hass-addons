@@ -8,3 +8,8 @@ In Hass.io, navigate to Supervisor > Add-on Store > Repositories and add `https:
 - [Frigate NVR Beta](frigate_beta/README.md)
 
   NVR with realtime local object detection for IP cameras
+  
+  
+ change the default runtime to "nvidia"
+ 
+ https://docs.nvidia.com/dgx/nvidia-container-runtime-upgrade/index.html#using-nv-container-runtime
