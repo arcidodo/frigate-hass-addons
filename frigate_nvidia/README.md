@@ -4,6 +4,9 @@
 
 NVR with realtime local object detection for IP cameras.
 
+be aware to change the default runtime to nvidia: https://docs.nvidia.com/dgx/nvidia-container-runtime-upgrade/index.html#using-nv-container-runtime
+
+
 You must create a config file as `frigate.yml` in the root of your HomeAssistant configuration directory.
 
 [Documentation](https://github.com/blakeblackshear/frigate)
