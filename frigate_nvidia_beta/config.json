@@ -2,7 +2,7 @@
   "name": "Frigate NVR nvidia beta",
   "version": "0.9.0-beta2",
   "panel_icon": "mdi:cctv",
-  "slug": "frigate",
+  "slug": "frigate-beta",
   "description": "NVR with realtime local object detection for IP cameras",
   "url": "https://github.com/blakeblackshear/frigate",
   "startup": "application",
