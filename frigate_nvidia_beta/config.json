@@ -1,6 +1,6 @@
 {
   "name": "Frigate NVR nvidia beta",
-  "version": "0.9.0-rc1",
+  "version": "0.9.0-rc2",
   "panel_icon": "mdi:cctv",
   "slug": "frigate-beta",
   "description": "NVR with realtime local object detection for IP cameras",
