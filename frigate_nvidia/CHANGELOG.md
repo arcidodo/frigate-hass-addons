@@ -1,3 +1,11 @@
+### 2.0
+- BREAKING CHANGES: Update to 0.9.1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v0.9.1)
+- This also requires an update to the Home Assistant integration (custom component)
+
+### 1.14
+- Allow access to side panel for non-admins
+- Add additional apex devices
+
 ### 1.13
 - Update to 0.8.4
 
@@ -17,7 +25,7 @@
 
 ### 1.7
 - Fixes for supervisor 2021.02.5
-- Configuration moved to homeassistant config directory as `frigate.yml`
+- Configuration moved to Home Assistant config directory as `frigate.yml`
 
 ### 1.6
 - Update to 0.8.1
