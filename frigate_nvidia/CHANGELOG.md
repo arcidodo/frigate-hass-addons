@@ -1,3 +1,14 @@
+### 2.3
+
+- Set side panel name to Frigate
+### 2.2
+
+- Update to 0.9.4 release notes
+### 2.1
+
+- Update to 0.9.3 release notes
+- Add /dev/video10 to requested devices for hwaccel
+
 ### 2.0
 - BREAKING CHANGES: Update to 0.9.1 [release notes](https://github.com/blakeblackshear/frigate/releases/tag/v0.9.1)
 - This also requires an update to the Home Assistant integration (custom component)
