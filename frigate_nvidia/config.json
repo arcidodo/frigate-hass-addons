@@ -1,6 +1,6 @@
 {
   "name": "Frigate NVR nvidia",
-  "version": "3.0",
+  "version": "3.1",
   "panel_icon": "mdi:cctv",
   "slug": "frigate",
   "description": "NVR with realtime local object detection for IP cameras",
